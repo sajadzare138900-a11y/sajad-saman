@@ -1,2 +1,2 @@
 # sajad-saman
-A simple website showing articles about Snapp and BRT in Iran.
+A simple website that provides articles about the transportation system in Iran.
